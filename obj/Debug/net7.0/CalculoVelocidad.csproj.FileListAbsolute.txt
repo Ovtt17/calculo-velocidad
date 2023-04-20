@@ -1,0 +1,15 @@
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-2\CalculoVelocidad\bin\Debug\net7.0\CalculoVelocidad.exe
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-2\CalculoVelocidad\bin\Debug\net7.0\CalculoVelocidad.deps.json
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-2\CalculoVelocidad\bin\Debug\net7.0\CalculoVelocidad.runtimeconfig.json
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-2\CalculoVelocidad\bin\Debug\net7.0\CalculoVelocidad.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-2\CalculoVelocidad\bin\Debug\net7.0\CalculoVelocidad.pdb
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-2\CalculoVelocidad\obj\Debug\net7.0\CalculoVelocidad.csproj.AssemblyReference.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-2\CalculoVelocidad\obj\Debug\net7.0\CalculoVelocidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-2\CalculoVelocidad\obj\Debug\net7.0\CalculoVelocidad.AssemblyInfoInputs.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-2\CalculoVelocidad\obj\Debug\net7.0\CalculoVelocidad.AssemblyInfo.cs
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-2\CalculoVelocidad\obj\Debug\net7.0\CalculoVelocidad.csproj.CoreCompileInputs.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-2\CalculoVelocidad\obj\Debug\net7.0\CalculoVelocidad.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-2\CalculoVelocidad\obj\Debug\net7.0\refint\CalculoVelocidad.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-2\CalculoVelocidad\obj\Debug\net7.0\CalculoVelocidad.pdb
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-2\CalculoVelocidad\obj\Debug\net7.0\CalculoVelocidad.genruntimeconfig.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-2\CalculoVelocidad\obj\Debug\net7.0\ref\CalculoVelocidad.dll
